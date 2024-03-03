@@ -1,0 +1,4 @@
+﻿Ad,Miktar,Bileşen
+"U1",1," Arduino Uno R3"
+"D1, D2, D3, D4, D5",5,"Kırmızı LED"
+"R1, R2, R3, R4, R5",5,"10 kΩ Rezistör"
