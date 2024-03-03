@@ -1,7 +1,9 @@
 // C++ code
 //
-int INCREMENT_VALUE = 1;
+int VALUE = 0;
+int INCREMENT_VALUE = 7;
 int WAIT_TIME = 500;
+
 
 void setup()
 {
@@ -28,11 +30,16 @@ void checkLed(int pinNum, bool status){
 
 void loop()
 {
+  VALUE += INCREMENT_VALUE;
+  if(VALUE>32){
+    VALUE = VALUE-32;
+  }else if(VALUE==32){
+    VALUE = 1;
+  }
   for(int i=7; i>=0; i--)
   {
-    bool m = bitRead(INCREMENT_VALUE, i); 
+    bool m = bitRead(VALUE, i); 
     checkLed(i,m);
   }
-  INCREMENT_VALUE++;
   delay(WAIT_TIME);
 }
