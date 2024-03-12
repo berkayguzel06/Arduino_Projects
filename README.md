@@ -5,6 +5,6 @@ Small Arduino Projects
 
 ![310270539-b2065c24-69e3-4347-92b6-955a374f9eac](https://github.com/berkayguzel06/Arduino_Projects/assets/98205992/dd4060de-e57e-4b6f-a7c1-e7198f381d44)
 
-## [LCD Controller](https://github.com/berkayguzel06/Arduino_Projects/tree/main/LCD_Controller)
+## [LCD Controller with I2C](https://github.com/berkayguzel06/Arduino_Projects/tree/main/LCD_Controller_With_I2C)
 
-![circuit_image](https://github.com/berkayguzel06/Arduino_Projects/assets/98205992/662751c7-8c06-4e30-a203-da5ab777ebfc)
+![circuit_image](https://github.com/berkayguzel06/Arduino_Projects/assets/98205992/ee701517-c35a-4e81-bb5f-fc346a4dba9d)
