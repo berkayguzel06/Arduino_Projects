@@ -8,3 +8,7 @@ Small Arduino Projects
 ## [LCD Controller with I2C](https://github.com/berkayguzel06/Arduino_Projects/tree/main/LCD_Controller_With_I2C)
 
 ![circuit_image](https://github.com/berkayguzel06/Arduino_Projects/assets/98205992/ee701517-c35a-4e81-bb5f-fc346a4dba9d)
+
+## [Buzzer Controller](https://github.com/berkayguzel06/Arduino_Projects/tree/main/Buzzer_controller)
+
+![circuit_image](https://github.com/berkayguzel06/Arduino_Projects/assets/98205992/faafa3f7-6c5d-43c7-92df-563308b92010)
