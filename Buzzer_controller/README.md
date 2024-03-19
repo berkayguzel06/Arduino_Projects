@@ -1,4 +1,4 @@
-# BUzzer Controller
+# Buzzer Controller
 
 Making melodies with controlling buzzer frequency
 
