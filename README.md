@@ -12,3 +12,7 @@ Small Arduino Projects
 ## [Buzzer Controller](https://github.com/berkayguzel06/Arduino_Projects/tree/main/Buzzer_controller)
 
 ![circuit_image](https://github.com/berkayguzel06/Arduino_Projects/assets/98205992/faafa3f7-6c5d-43c7-92df-563308b92010)
+
+## [DHT11 Sensor](https://github.com/berkayguzel06/Arduino_Projects/tree/main/DHT11)
+
+![TINKERCAD](https://github.com/berkayguzel06/Arduino_Projects/assets/98205992/98ab9c41-9e19-4b3a-9f65-d8f71fb3efab)
