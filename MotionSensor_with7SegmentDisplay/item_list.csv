@@ -1,0 +1,6 @@
+﻿Ad,Miktar,Bileşen
+"U1",1," Arduino Uno R3"
+"D1",1,"Kırmızı LED"
+"PIR1",1," PIR Sensörü"
+"R1, R2",2,"1 kΩ Direnç"
+"Digit1",1,"Anot 7 Segmentli Ekran"
