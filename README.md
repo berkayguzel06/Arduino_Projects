@@ -20,3 +20,7 @@ Small Arduino Projects
 ## [Motion Sensor](https://github.com/berkayguzel06/Arduino_Projects/tree/main/MotionSensor_with7SegmentDisplay)
 
 ![323304544-26b05b2a-db8b-4a3b-af21-41d8b95ff7d7](https://github.com/berkayguzel06/Arduino_Projects/assets/98205992/7d52f450-327e-4b2f-a648-177a8c8d8278)
+
+## [Light_Sensor](https://github.com/berkayguzel06/Arduino_Projects/tree/main/Light_Sensor)
+
+![circuit_image](https://github.com/berkayguzel06/Arduino_Projects/assets/98205992/71228fec-6853-4f45-8b19-6b9643e9687c)
