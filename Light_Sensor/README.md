@@ -1,4 +1,4 @@
-# LCD Controller With I2C
-Controls the flow and direction of the inputs with I2C protocol.
+# Light Sensor
+Control the light in the environment
 
-![circuit_image](https://github.com/berkayguzel06/Arduino_Projects/assets/98205992/bf581331-2235-4021-9ee8-4f0b89f16cf3)
+![circuit_image](https://github.com/berkayguzel06/Arduino_Projects/assets/98205992/c61f5986-0577-4e0f-91f4-a3987b038658)
