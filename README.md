@@ -24,3 +24,7 @@ Small Arduino Projects
 ## [Light_Sensor](https://github.com/berkayguzel06/Arduino_Projects/tree/main/Light_Sensor)
 
 ![circuit_image](https://github.com/berkayguzel06/Arduino_Projects/assets/98205992/71228fec-6853-4f45-8b19-6b9643e9687c)
+
+## [Parking Sensor](https://github.com/berkayguzel06/Arduino_Projects/tree/main/Parking_Sensor)
+
+![circuit_image](https://github.com/berkayguzel06/Arduino_Projects/assets/98205992/2cec94ab-9277-449e-a9ef-95d32db6fddd)
