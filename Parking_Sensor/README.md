@@ -1,5 +1,6 @@
-# DHT 11 Sensor
+# HC-SR04 Sensor
 
-Reading humidty and temperature with DHT 11 and displaying on LCD screen.
+Parking sensor that integrates with buzzer and led.
 
-![TINKERCAD](https://github.com/berkayguzel06/Arduino_Projects/assets/98205992/7618b35a-ee9e-41b1-b0dd-5ff8999e7cda)
+![circuit_image](https://github.com/berkayguzel06/Arduino_Projects/assets/98205992/a7fd4896-b9cc-4bc0-b131-c430cf04a5c5)
+
